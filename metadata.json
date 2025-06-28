@@ -1,0 +1,6 @@
+{
+  "name": "ledger",
+  "description": "A full-featured order tracking and management system for JM Aqua Minerals. This application allows for customer and order management, dashboard analytics, and delivery tracking.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
